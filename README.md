@@ -12,3 +12,5 @@ Q4: No... that would be like... really stupid... right? That would... like.... d
 Q5: Merge! Two 'histories' are combined into one, not rerouted.
 
 Q6: Brandon's (person B) branch is ahead of the current main. It still needs to be syched up.
+
+Q7: Yes, Brandon's copy of "AwesomeBranch" did get deleted when Roan deleted the branch from github
